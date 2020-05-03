@@ -1,6 +1,7 @@
 {
   "name": "@rayzr/minecraft-pinger",
   "version": "1.0.4",
+  "private": false,
   "author": "Dennis Bruner <contact@dennisbruner.de>, Rayzr522 <rayzr522@gmail.com>",
   "description": "A promise-based minecraft pinger in Node.js",
   "license": "MIT",
