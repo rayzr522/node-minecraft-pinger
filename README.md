@@ -8,7 +8,7 @@
 ## Installation
 
 ```bash
-$ npm install --save-prod @rayzr/minecraft-pinger`
+$ npm install --save-prod '@rayzr/minecraft-pinger'
 ```
 
 ## TODOs
